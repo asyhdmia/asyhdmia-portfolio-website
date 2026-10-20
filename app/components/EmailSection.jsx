@@ -65,7 +65,7 @@ const EmailSection = () => {
         <div className="socials flex flex-row gap-2">
           {/* Replace with your own profile URLs */}
           <Link
-            href="https://github.com/your-username"
+            href="https://github.com/asyhdmia"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -77,7 +77,7 @@ const EmailSection = () => {
             />
           </Link>
           <Link
-            href="https://www.linkedin.com/in/your-username"
+            href="https://www.linkedin.com/in/nur-aisyah-damia"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -110,7 +110,7 @@ const EmailSection = () => {
                 id="email"
                 required
                 className="bg-[#18191E] border border-[#33353F] placeholder-[#9CA2A9] text-gray-100 text-sm rounded-lg block w-full p-2.5"
-                placeholder="jacob@google.com"
+                placeholder="nrasdmia@gmail.com"
               />
             </div>
             <div className="mb-6">
